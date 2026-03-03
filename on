@@ -7,8 +7,9 @@ global dolby_atmos_auto_mode 1
 global dolby_server_enabled 1
 global dolby_service_enabled 1
 global dolby_full_enabled 1
-global performance_dolby_atmos_enabled
+global performance_dolby_atmos_enabled 1
 global hi_res_lossless_support 1
 global hi_res_lossless_enabled 1
 global hi_res_lossless_output 1
 global spatial_audio_enabled 1
+global 32bit_float_support 1
