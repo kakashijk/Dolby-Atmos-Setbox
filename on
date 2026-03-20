@@ -2,7 +2,9 @@ global dolby_atmos_support 1
 global dolby_atmos_enabled 1
 global dolby_atmos_plus_enabled 1
 global dolby_vision_enabled 1
-global dolby_atmos_auto_mode 1
-global dolby_server_enabled 1
-global dolby_service_enabled 1
-global spatial_audio_enabled 1
+global dolby_atmos_auto_mode true
+global sound_balance_enabled 1
+global volume_normalization_enabled 1
+global bass_boost_enabled 1
+global surround_sound_enabled 1
+global disable_stereo_audio true
