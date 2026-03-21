@@ -4,4 +4,3 @@ global sound_balance_enabled 0
 global volume_normalization_enabled 0
 global bass_boost_enabled 0
 global 3d_surround_sound_enabled 0
-global sound_ultra_hd_enabled 0
