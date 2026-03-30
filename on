@@ -2,4 +2,4 @@ global dolby_atmos_enabled 1
 global bass_boost_enabled 1
 global dolby_vision_enabled 1
 global ultra_retina_xdr_enabled 1
-global drum_boost_enabled 1
+global drums_boost_enabled 1
